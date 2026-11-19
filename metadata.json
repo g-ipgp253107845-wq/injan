@@ -1,0 +1,6 @@
+{
+  "name": "CyberSmart Kids – Wira Digital",
+  "description": "Halaman web pendidikan interaktif mengenai Netiket dan Keselamatan Siber untuk murid sekolah rendah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
